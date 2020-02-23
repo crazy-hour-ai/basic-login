@@ -1,8 +1,9 @@
 # Basic Login Web Application 1.0
 This application is to let user search and view the restaurant details (Rating, descriptions etc)
 
-## Images
-https://github.com/crazy-hour-ai/basic-login/blob/master/basic-login.png
+# Login Page 
+![image](./basic-login.png)
+
 ## Getting Started
 1. open terminal
 ```
